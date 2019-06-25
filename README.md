@@ -1,2 +1,2 @@
-# Praktikum-PAW-12
+# Praktikum-PWM-12
 modif app
